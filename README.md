@@ -50,7 +50,7 @@ Improve UI with Bootstrap/React.js
 Test with XGBoost & Deep Learning
 
 📜 Author & Contact
-👨‍💻 Bandi Bala Subrahmanyam
-📧 balubandi83@gmail.com
+👨‍💻 Palla Pravallika
+📧 pallapravallika2004@gmail.com
 
 
